@@ -1,0 +1,11 @@
+C:\Users\santa\OneDrive\Desktop\ClassTest\ClassTest\ClassTest\obj\Debug\netcoreapp2.1\ClassTest.csprojAssemblyReference.cache
+C:\Users\santa\OneDrive\Desktop\ClassTest\ClassTest\ClassTest\obj\Debug\netcoreapp2.1\ClassTest.csproj.CoreCompileInputs.cache
+C:\Users\santa\OneDrive\Desktop\ClassTest\ClassTest\ClassTest\obj\Debug\netcoreapp2.1\ClassTest.AssemblyInfoInputs.cache
+C:\Users\santa\OneDrive\Desktop\ClassTest\ClassTest\ClassTest\obj\Debug\netcoreapp2.1\ClassTest.AssemblyInfo.cs
+C:\Users\santa\OneDrive\Desktop\ClassTest\ClassTest\ClassTest\bin\Debug\netcoreapp2.1\ClassTest.deps.json
+C:\Users\santa\OneDrive\Desktop\ClassTest\ClassTest\ClassTest\bin\Debug\netcoreapp2.1\ClassTest.runtimeconfig.json
+C:\Users\santa\OneDrive\Desktop\ClassTest\ClassTest\ClassTest\bin\Debug\netcoreapp2.1\ClassTest.runtimeconfig.dev.json
+C:\Users\santa\OneDrive\Desktop\ClassTest\ClassTest\ClassTest\bin\Debug\netcoreapp2.1\ClassTest.dll
+C:\Users\santa\OneDrive\Desktop\ClassTest\ClassTest\ClassTest\bin\Debug\netcoreapp2.1\ClassTest.pdb
+C:\Users\santa\OneDrive\Desktop\ClassTest\ClassTest\ClassTest\obj\Debug\netcoreapp2.1\ClassTest.dll
+C:\Users\santa\OneDrive\Desktop\ClassTest\ClassTest\ClassTest\obj\Debug\netcoreapp2.1\ClassTest.pdb
